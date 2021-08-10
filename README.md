@@ -26,7 +26,7 @@ the only way to be loved is to keep the heart and the past and the future
 📫 How to reach me: NinaMaamary@protonmail.com  
 ⚡ Fun fact: Born on the same day and month of the greatest wizard 🧙  
 
-*Software engineer by major, A.I Engineer at heart.*
+*Software engineer by degree, A.I Engineer at heart.*
 
 ## 📝 Latest blog: 
 [The Intuition Behind Perceptrons](https://ninamaamary.medium.com/the-intuition-behind-perceptrons-a58a03b1b874)
