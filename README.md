@@ -20,7 +20,7 @@ the only way to be loved is to keep the heart and the past and the future
 ### I'm Nina, I sleep, eat, and breath A.I.
 
 - I’m currently learning and improving my skills in deep learning 
-- I’m looking for help on using OCR on Arabic language
+- I’m looking for help in using OCR on Arabic language
 - I’m looking to collaborate on [Near earth objects (NEOWS) with three js](https://github.com/NinaM31/Live-NearEarthObject)  
 
 📫 How to reach me: NinaMaamary@protonmail.com  
