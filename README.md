@@ -17,10 +17,17 @@ the only way to be loved is to keep the heart and the past and the future
 ### I'm Nina, I sleep, eat, and breath A.I.
 
 - I’m currently learning and improving my skills in deep learning 
-- I’m looking for help in using OCR on Arabic language
+- I’m looking for help in using OCR with Arabic language
 - I’m looking to collaborate on [Near earth objects (NEOWS) with three js](https://github.com/NinaM31/Live-NearEarthObject)  
 
 Fun fact: Born on the same day and month as the greatest wizard 🧙⚡ 
 
 *Software engineer by degree, A.I Engineer at heart.*  
 [Nina Almaamary](https://ninam31.github.io/)
+
+## Latest
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ninamaamary/0">
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@ninamaamary/0" alt="Recent Article 0"></a>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ninamaamary/1">
+<img src="https://github-readme-medium-recent-article.vercel.app/medium/@ninamaamary/1" alt="Recent Article 1"></a>
