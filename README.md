@@ -24,10 +24,3 @@ Fun fact: Born on the same day and month as the greatest wizard 🧙⚡
 
 *Software engineer by degree, A.I Engineer at heart.*  
 [Nina Almaamary](https://ninam31.github.io/)
-
-## Latest
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ninamaamary/0">
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@ninamaamary/0" alt="Recent Article 0"></a>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ninamaamary/1">
-<img src="https://github-readme-medium-recent-article.vercel.app/medium/@ninamaamary/1" alt="Recent Article 1"></a>
