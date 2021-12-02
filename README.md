@@ -12,7 +12,7 @@ the only way to be loved is to keep the heart and the past and the future
 ```
 <!-- fluff ends -->
 
-![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/57009004/120247985-0fb32a80-c27e-11eb-9769-10318df24c25.gif)
+<!-- ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/57009004/120247985-0fb32a80-c27e-11eb-9769-10318df24c25.gif) -->
 
 ### I'm Nina, I sleep, eat, and breath A.I.
 
@@ -22,11 +22,7 @@ the only way to be loved is to keep the heart and the past and the future
 
 Fun fact: Born on the same day and month as the greatest wizard 🧙⚡ 
 
-*Software engineer by degree, A.I Engineer at heart.*  
-[Nina Almaamary](https://ninam31.github.io/)
+*Software engineer by degree, A.I Engineer at heart.* 
 
-<!-- #### Latest Blogs
+#### Latest Blogs
  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ninamaamary/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ninamaamary/0" alt="Recent Article 0"> </a>
-
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ninamaamary/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ninamaamary/1" alt="Recent Article 1"> </a> -->
-
