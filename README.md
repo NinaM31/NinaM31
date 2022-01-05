@@ -15,6 +15,3 @@ the only way to be loved is to keep the heart and the past and the future
 
 
 *Software engineer by degree, A.I Engineer at heart.* 
-
-#### Latest Blogs
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ninamaamary/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ninamaamary/0" alt="Recent Article 0"> </a>
