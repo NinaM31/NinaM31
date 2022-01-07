@@ -18,9 +18,9 @@ the only way to be loved is to keep the heart and the past and the future
 
 <p float="left">
   <a href="https://ninamaamary.medium.com/">
-     <img  src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="50"/>  
+     <img  src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="30"/>  
   </a>
   <a href="https://www.kaggle.com/ninamaamary">
-     <img  src="https://storage.googleapis.com/kaggle-competitions/kaggle/3136/media/kaggle-transparent.svg" width="120"/>
+     <img  src="https://storage.googleapis.com/kaggle-competitions/kaggle/3136/media/kaggle-transparent.svg" width="80"/>
   </a>
 </p>
