@@ -9,7 +9,7 @@ the only way to be loved is to keep the heart and the past and the future
 <!-- fluff ends -->
 ### I'm Nina, I sleep, eat, and breath A.I.
 
-- I’m currently learning and improving my skills in deep learning 
+- Learning and improving my skills in deep learning 
 - Currently Reading [Deep learning papers and implementing them with PyTorch](https://github.com/NinaM31/DeepLearning-FromPaper)
 
 
