@@ -11,6 +11,7 @@ the only way to be loved is to keep the heart and the past and the future
 
 - Learning and improving my skills in deep learning 
 - Currently Reading [Deep learning papers and implementing them with PyTorch](https://github.com/NinaM31/DeepLearning-FromPaper)
+- Learning GO
 
 
 *Software engineer by degree, A.I Engineer at heart.* 
