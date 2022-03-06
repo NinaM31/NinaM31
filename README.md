@@ -12,6 +12,7 @@ the only way to be loved is to keep the heart and the past and the future
 - Learning and improving my skills in deep learning 
 - Currently Reading [Deep learning papers and implementing them with PyTorch](https://github.com/NinaM31/DeepLearning-FromPaper)
 - I love LOTR and a fan of Edgar Allan Poe's work.
+- Currently taking: "Let's Build a Go version of Laravel" & "Machine Learning for Trading"
 
 *Software engineer by degree, A.I Engineer at heart.* 
 
