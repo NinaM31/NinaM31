@@ -6,3 +6,5 @@
 In fact, you have no idea what you are .
 ```
 <!-- fluff ends -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninam31&hide=html,tex,jupyter+notebook,javascript&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
