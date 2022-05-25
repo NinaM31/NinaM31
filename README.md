@@ -6,3 +6,12 @@
 I think a man's life is a gift .
 ```
 <!-- fluff ends -->
+
+<p float="left">
+  <a href="https://ninamaamary.medium.com/">
+     <img  src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Medium_logo_Monogram.svg" width="30"/>  
+  </a>
+  <a href="https://www.kaggle.com/ninamaamary">
+     <img  src="https://storage.googleapis.com/kaggle-competitions/kaggle/3136/media/kaggle-transparent.svg" width="70"/>
+  </a>
+</p>
