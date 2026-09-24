@@ -2,6 +2,6 @@
 
 ### Hi, I'm Nina :)
 
-MSc AI student at King Saud University. My current interests are in NLP, LLMs, retrieval, and model selection.
+MSc AI student at King Saud University. My current interests are LLMs, retrieval, reasoning, reliability, and AI safety.
 
 I use GitHub to document research projects, experiments, and things I'm learning along the way.
